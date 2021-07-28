@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        **HUBBERS!! THIS IS GITHUB/DOCS OPEN SOURCE REPO. OPEN AN ISSUE IN GITHUB/DOCS-CONTENT INSTEAD.**
+        **HUBBERS:** This is the github/docs open source repo. You may want to open an issue in the internal-only github/docs-content repo instead.
 
         * For questions, ask in [Discussions](https://github.com/github/docs/discussions)
         * Before you file an issue read the [Contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
